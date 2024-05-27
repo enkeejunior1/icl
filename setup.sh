@@ -1,0 +1,1 @@
+pip install setproctitle matplotlib tqdm scikit-learn scipy
